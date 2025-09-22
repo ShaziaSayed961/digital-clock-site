@@ -1,0 +1,26 @@
+body{
+    padding: 20px ;
+    /* background-color: black; */
+    background-image: url('./images/Dark\ mode\ wallpaper.jpg');
+    background-repeat:no-repeat;
+    background-size: 100% 140%;
+}
+
+.time{
+    margin-top: 200px;
+    background-color:rgb(255, 254, 254);
+    border-radius: 20px;
+    opacity: 10%;
+    width: 1270px;
+    height: 180px;
+    font-size: 150px;
+    color:rgb(0, 0, 0);
+}
+/* #background{
+z-index: -100;
+/* object-fit: contain; */
+/* border-width: 3px;
+background-image: url('img_girl.jpg');
+width: 150;
+border-color: rgb(98, 194, 162);
+} */
