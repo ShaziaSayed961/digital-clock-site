@@ -24,3 +24,7 @@ background-image: url('img_girl.jpg');
 width: 150;
 border-color: rgb(98, 194, 162);
 } */
+p{ 
+    font-family: serif;
+    color: white;
+}
