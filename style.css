@@ -1,0 +1,50 @@
+body{
+    padding: 20px ;
+    /* background-color: black; */
+    background-image: url('./images/Dark\ mode\ wallpaper.jpg');
+    background-repeat:no-repeat;
+    background-size: 100% 140%;
+}
+
+.time{
+    margin-top: 50px;
+    background-color:rgb(255, 254, 254);
+    border-radius: 20px;
+    opacity: 10%;
+    width: 1280px;
+    height: 180px;
+    font-size: 150px;
+    color:black
+}
+/* #background{
+z-index: -100;
+/* object-fit: contain; */
+/* border-width: 3px;
+background-image: url('img_girl.jpg');
+width: 150;
+border-color: rgb(98, 194, 162);
+} */
+p{ 
+    font-family: serif;
+    color: white;
+}
+.quote{
+    /* background-color:white; */
+    color: white;
+    /* height: 200px; */
+    /* width: 800px; */
+    border-radius: 20px;
+    font-size: 30px;
+    opacity: 30%;
+    padding-top: 50px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#quote-btn{
+    background-color: rgb(83, 77, 77);
+    color: white;
+     border-radius: 10px;
+     width: 150px;
+     margin-top: 20px;
+         font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
